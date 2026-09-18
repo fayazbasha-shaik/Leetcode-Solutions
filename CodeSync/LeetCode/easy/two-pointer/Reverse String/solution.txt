@@ -7,16 +7,15 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T04:43:46.344Z
+ * Synced: 2026-09-18T04:44:32.939Z
  */
 
-class Solution {
-    public void reverseString(char[] s) {
-        StringBuilder sb=new StringBuilder("");
-        
-    
-        for(i=n;i<s.length;i--){
+for(i=n;i<s.length;i--){
         }
     }
-            sb.appen(s.charAt[i]);
+            sb.appen(s.charAt(i));
 }
+        
+        StringBuilder sb=new StringBuilder("");
+class Solution {
+    public void reverseString(char[] s) {
