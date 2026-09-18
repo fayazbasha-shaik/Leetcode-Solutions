@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T04:27:14.629Z
+ * Synced: 2026-09-18T04:28:45.831Z
  */
 
 class Solution {
@@ -16,6 +16,7 @@ class Solution {
         for(int i=0;i<char.length/2;i++){
             char temp=char[i];
             arr[i]=char[char.length-1-i];
+            arr[arr.length-1-i]=temp;
 
         }
     }
