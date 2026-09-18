@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-09-18T04:42:56.938Z",
-  "runtime": "0 ms",
+  "submissionTimestamp": "2026-09-18T04:43:46.344Z",
+  "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
@@ -11,5 +11,5 @@
   "language": "Problem List",
   "problemTitle": "Reverse String",
   "problemUrl": "https://leetcode.com/problems/reverse-string/",
-  "submissionId": "6676q"
+  "submissionId": "nuqaun"
 }
