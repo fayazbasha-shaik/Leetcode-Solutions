@@ -1,32 +1,21 @@
 /*
  * Platform: LeetCode
  * Problem: Valid Palindrome
- * URL: https://leetcode.com/problems/valid-palindrome/
+ * URL: https://leetcode.com/problems/valid-palindrome/submissions/2119542715/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Two Pointers, String
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-09-18T05:39:30.931Z
+ * Memory: 46.49 MB
+ * Synced: 2026-09-18T05:40:16.504Z
  */
 
-class Solution {
-    public boolean isPalindrome(String s) {
-        int left=0;
-        int right=s.length()-1;
-        while(left<right){
-            while(left<right && !Character.isLetterOrDigit(s.charAt(left))){
-                left++;
-            }
-            while(left<right && !Character.isLetterOrDigit(s.charAt(right))){
-                right--;
-            }
-            if(Character.toLowerCase(s.charAt(left))!=Character.toLowerCase(s.charAt(right))){
-                return false;
-            }
-            left++;
-            right--;
-        }
-         return true;
-    }
-}
+"A man, a plan, a canal: Panama"
+"race a car"
+" "
+true
+false
+true
+true
+false
+true
