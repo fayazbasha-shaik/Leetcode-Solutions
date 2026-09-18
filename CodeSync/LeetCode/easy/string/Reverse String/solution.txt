@@ -7,19 +7,17 @@
  * Topics: Two Pointers, String
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-18T04:42:10.777Z
+ * Synced: 2026-09-18T04:42:56.938Z
  */
 
 class Solution {
     public void reverseString(char[] s) {
         StringBuilder sb=new StringBuilder("");
         
-        int j=s.length;
-        for(i=n;i<j/2;i++){
-           s[i]=s[j-1-i];
-           s[j-1-i]=s[i];
-
-           j--;
+    
+        for(i=n;i<s.length;i++){
+    
         }
     }
+            sb.appen(s[])
 }
