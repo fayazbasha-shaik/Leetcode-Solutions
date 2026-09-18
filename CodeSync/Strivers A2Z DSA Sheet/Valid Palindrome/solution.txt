@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Valid Palindrome
- * URL: https://leetcode.com/problems/valid-palindrome/submissions/2119542715/
+ * URL: https://leetcode.com/problems/valid-palindrome/submissions/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Two Pointers, String
  * Runtime: 0 ms
  * Memory: 46.49 MB
- * Synced: 2026-09-18T05:40:16.504Z
+ * Synced: 2026-09-18T05:41:02.151Z
  */
 
 "A man, a plan, a canal: Panama"
