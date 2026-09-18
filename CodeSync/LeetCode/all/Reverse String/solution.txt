@@ -1,26 +1,26 @@
 /*
  * Platform: LeetCode
  * Problem: Reverse String
- * URL: https://leetcode.com/problems/reverse-string/
+ * URL: https://leetcode.com/problems/reverse-string/submissions/2145361294/
  * Language: Problem List
- * Difficulty: Easy
- * Topics: Two Pointers, String
- * Runtime: N/A
- * Memory: N/A
- * Synced: 2026-09-18T04:51:26.985Z
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: 0 ms
+ * Memory: 48.05 MB
+ * Synced: 2026-09-18T05:01:56.325Z
  */
 
-class Solution {
-    public void reverseString(char[] s) {
-        int left=0;
-        int right=s.length;
-        while(left<right){
-            char temp=s[left];
-            s[left]=s[right];
-            s[right]=temp;
-            left++;
-            right--;
-        }
-        
-    }
-}
+1class Solution {
+2    public void reverseString(char[] s) {
+3        int left=0;
+4        int right=s.length-1;
+5        while(left<right){
+6            char temp=s[left];
+7            s[left]=s[right];
+8            s[right]=temp;
+9            left++;
+10            right--;
+11        }
+12        
+13    }
+14}
