@@ -6,8 +6,8 @@
 - Topics: Two Pointers, String
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/valid-palindrome/
-- Synced: 2026-09-18T05:03:12.321Z
+- Problem URL: https://leetcode.com/problems/valid-palindrome/description/
+- Synced: 2026-09-18T05:03:58.214Z
 
 ## Problem Description
 
