@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-09-18T05:41:33.333Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "platform": "LeetCode",
+  "language": "C",
+  "problemTitle": "-",
+  "problemUrl": "https://leetcode.com/problems/valid-palindrome-ii/description/",
+  "submissionId": "b5zbsc"
+}
