@@ -1,15 +1,14 @@
 {
-  "submissionTimestamp": "2026-09-18T04:51:26.985Z",
-  "runtime": "N/A",
-  "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "submissionTimestamp": "2026-09-18T05:01:56.325Z",
+  "runtime": "0 ms",
+  "memoryUsage": "48.05 MB",
+  "difficulty": "Unknown",
   "tags": [
-    "Two Pointers",
-    "String"
+    "Uncategorized"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Reverse String",
-  "problemUrl": "https://leetcode.com/problems/reverse-string/",
-  "submissionId": "ww8d1y"
+  "problemUrl": "https://leetcode.com/problems/reverse-string/submissions/2145361294/",
+  "submissionId": "eaascq"
 }
