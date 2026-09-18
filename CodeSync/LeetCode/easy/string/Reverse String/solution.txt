@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T04:35:08.793Z
+ * Synced: 2026-09-18T04:35:55.496Z
  */
 
 class Solution {
@@ -15,7 +15,11 @@ class Solution {
         String arr[]=new String[""];
         int i=0;
         int j=s.length;
-        for(int i=0;i<j/2;i++){
+        for(i=0;i<j/2;i++){
             char temp=s[i];
             arr[i]=s[j-1-i];
             arr[j-1-i]=temp;
+
+        }
+    }
+}
