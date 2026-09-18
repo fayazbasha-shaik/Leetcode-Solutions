@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T04:46:49.240Z
+ * Synced: 2026-09-18T04:47:34.939Z
  */
 
 class Solution {
@@ -15,5 +15,6 @@ class Solution {
         
     }
         int left=0;
-        
+        int right=s.length;
+        while(left<rigth)
 }
