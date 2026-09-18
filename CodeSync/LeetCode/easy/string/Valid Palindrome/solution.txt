@@ -7,12 +7,13 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T05:05:32.174Z
+ * Synced: 2026-09-18T05:06:20.824Z
  */
 
 class Solution {
     public boolean isPalindrome(String s) {
         
     }
-        int
+        StringBuilder sb = new StringBuilder("");
+        
 }
