@@ -7,19 +7,20 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T04:48:20.923Z
+ * Synced: 2026-09-18T04:49:08.777Z
  */
 
 class Solution {
     public void reverseString(char[] s) {
         int left=0;
         int right=s.length;
-        while(left<rigth){
+        while(left<right){
             char temp=s[left];
         }
         
     }
             s[left]=s[right];
             s[right]=temp;
-            left++''
+            left++;
+            right--;
 }
