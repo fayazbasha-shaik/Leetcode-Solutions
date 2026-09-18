@@ -7,12 +7,11 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T05:27:01.345Z
+ * Synced: 2026-09-18T05:27:46.743Z
  */
 
 class Solution {
     public boolean isPalindrome(String s) {
-        StringBuilder sb = new StringBuilder("");
         int left=0;
         int right=s.length()-1;
 
@@ -25,5 +24,5 @@ class Solution {
         
         }
     }
-            char ch=
+            while(left<right && Character)
 }
