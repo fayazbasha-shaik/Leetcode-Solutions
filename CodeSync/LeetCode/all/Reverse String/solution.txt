@@ -1,21 +1,14 @@
 /*
  * Platform: LeetCode
  * Problem: Reverse String
- * URL: https://leetcode.com/problems/reverse-string/solutions/
+ * URL: https://leetcode.com/problems/reverse-string/submissions/2131917410/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T04:45:18.103Z
+ * Synced: 2026-09-18T04:46:03.928Z
  */
 
-for(i=n;i<s.length;i--){
-        }
-    }
-            sb.appen(s.charAt(i));
-}
-        
-        StringBuilder sb=new StringBuilder("");
-class Solution {
-    public void reverseString(char[] s) {
+Input: s = ["h","e","l","l","o"]
+Output: ["o","l","l","e","h"]
