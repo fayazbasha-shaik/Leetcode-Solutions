@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T05:29:20.336Z
+ * Synced: 2026-09-18T05:30:06.365Z
  */
 
 class Solution {
@@ -26,6 +26,8 @@ class Solution {
             while(left<right && !Character.isLetterorDigit(s.charAt(left))){
                 left++;
             }
+            while(left<right && !Character.isLetterorDigit(s.charAt(right)){
+                right--;
+            }
     }
-            while(left<right && !Character. )
 }
