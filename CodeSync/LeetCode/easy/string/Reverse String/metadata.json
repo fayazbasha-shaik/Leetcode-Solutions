@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-18T04:23:28.242Z",
-  "runtime": "1 ms",
-  "memoryUsage": "48.96 MB",
+  "submissionTimestamp": "2026-09-18T04:24:13.203Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
     "Two Pointers",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Reverse String",
-  "problemUrl": "https://leetcode.com/problems/reverse-string/submissions/2131917833/",
-  "submissionId": "q2m3p2"
+  "problemUrl": "https://leetcode.com/problems/reverse-string/",
+  "submissionId": "7hts60"
 }
