@@ -5,9 +5,9 @@
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Two Pointers, String
- * Runtime: 0 ms
+ * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T04:42:56.938Z
+ * Synced: 2026-09-18T04:43:46.344Z
  */
 
 class Solution {
@@ -15,9 +15,8 @@ class Solution {
         StringBuilder sb=new StringBuilder("");
         
     
-        for(i=n;i<s.length;i++){
-    
+        for(i=n;i<s.length;i--){
         }
     }
-            sb.appen(s[])
+            sb.appen(s.charAt[i]);
 }
