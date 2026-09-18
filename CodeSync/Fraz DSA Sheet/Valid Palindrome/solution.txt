@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T05:07:59.629Z
+ * Synced: 2026-09-18T05:08:44.757Z
  */
 
 class Solution {
@@ -15,9 +15,9 @@ class Solution {
         StringBuilder sb = new StringBuilder("");
         int left=0;
         int right=s.length()-1;
-        while(left<rigth)[
-            if
-        ]
+        while(left<rigth)
+            
+        
         
     }
 }
