@@ -5,22 +5,22 @@
  * Language: Problem List
  * Difficulty: Unknown
  * Topics: Uncategorized
- * Runtime: 0 ms
- * Memory: 48.05 MB
- * Synced: 2026-09-18T04:59:09.904Z
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-18T05:00:16.885Z
  */
 
-1class Solution {
-2    public void reverseString(char[] s) {
-3        int left=0;
-4        int right=s.length-1;
-5        while(left<right){
-6            char temp=s[left];
-7            s[left]=s[right];
-8            s[right]=temp;
-9            left++;
-10            right--;
-11        }
-12        
-13    }
-14}
+class Solution {
+    public void reverseString(char[] s) {
+        int left=0;
+        int right=s.length-1;
+        while(left<right){
+            char temp=s[left];
+            s[left]=s[right];
+            s[right]=temp;
+            left++;
+            right--;
+        }
+        
+    }
+}
