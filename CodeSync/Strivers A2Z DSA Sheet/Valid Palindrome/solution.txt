@@ -1,17 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: Valid Palindrome
- * URL: https://leetcode.com/problems/valid-palindrome/description/
+ * URL: https://leetcode.com/problems/valid-palindrome/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T05:04:46.058Z
+ * Synced: 2026-09-18T05:05:32.174Z
  */
 
 class Solution {
     public boolean isPalindrome(String s) {
         
     }
+        int
 }
