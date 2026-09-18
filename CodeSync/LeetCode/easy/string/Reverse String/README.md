@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Two Pointers, String
-- Runtime: 1 ms
-- Memory: 48.96 MB
-- Problem URL: https://leetcode.com/problems/reverse-string/submissions/2131917833/
-- Synced: 2026-09-18T04:23:28.242Z
+- Runtime: N/A
+- Memory: N/A
+- Problem URL: https://leetcode.com/problems/reverse-string/
+- Synced: 2026-09-18T04:24:13.203Z
 
 ## Problem Description
 
