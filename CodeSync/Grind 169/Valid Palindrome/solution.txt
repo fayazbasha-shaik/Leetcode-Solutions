@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T05:31:37.329Z
+ * Synced: 2026-09-18T05:32:24.717Z
  */
 
 class Solution {
@@ -29,6 +29,8 @@ class Solution {
             while(left<right && !Character.isLetterorDigit(s.charAt(right)){
                 right--;
             }
+            if(Character.toLowerCase(s.charAt(left)!=Character.toLowerCase(s.charAt(right)){
+                return false;
+            }
     }
-            if(Character.toLowerCase(s.charAt(left))!=Character.toLowe)
 }
