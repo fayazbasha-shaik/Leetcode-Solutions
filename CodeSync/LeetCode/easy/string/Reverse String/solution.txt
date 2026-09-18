@@ -7,12 +7,12 @@
  * Topics: Two Pointers, String
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-18T04:39:52.708Z
+ * Synced: 2026-09-18T04:40:39.331Z
  */
 
 class Solution {
     public void reverseString(char[] s) {
-        String arr[]=new String[s.length];
+        //String arr[]=new String[s.length];
         int i=0;
         int j=s.length;
         for(i=0;i<j/2;i++){
@@ -20,6 +20,3 @@ class Solution {
            s[j-1-i]=s[i];
 
            j--;
-        }
-    }
-}
