@@ -1,0 +1,14 @@
+/*
+ * Platform: LeetCode
+ * Problem: Reverse String
+ * URL: https://leetcode.com/problems/reverse-string/submissions/2131917833/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Two Pointers, String
+ * Runtime: 1 ms
+ * Memory: 48.96 MB
+ * Synced: 2026-09-18T04:23:28.242Z
+ */
+
+Input: s = ["h","e","l","l","o"]
+Output: ["o","l","l","e","h"]
