@@ -1,14 +1,17 @@
 /*
  * Platform: LeetCode
  * Problem: Reverse String
- * URL: https://leetcode.com/problems/reverse-string/submissions/2131917833/
+ * URL: https://leetcode.com/problems/reverse-string/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Two Pointers, String
- * Runtime: 1 ms
- * Memory: 48.96 MB
- * Synced: 2026-09-18T04:23:28.242Z
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-18T04:24:13.203Z
  */
 
-Input: s = ["h","e","l","l","o"]
-Output: ["o","l","l","e","h"]
+class Solution {
+    public void reverseString(char[] s) {
+        
+    }
+}
