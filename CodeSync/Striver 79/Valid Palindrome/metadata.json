@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-09-18T05:03:12.321Z",
+  "submissionTimestamp": "2026-09-18T05:03:58.214Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Valid Palindrome",
-  "problemUrl": "https://leetcode.com/problems/valid-palindrome/",
+  "problemUrl": "https://leetcode.com/problems/valid-palindrome/description/",
   "submissionId": "fmmx5b"
 }
