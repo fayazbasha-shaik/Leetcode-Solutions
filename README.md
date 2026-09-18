@@ -38,3 +38,15 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | String Mastery Sheet | 0 | 51 |
 | Graph Mastery Sheet | 0 | 29 |
 | Heap Mastery Sheet | 0 | 22 |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
