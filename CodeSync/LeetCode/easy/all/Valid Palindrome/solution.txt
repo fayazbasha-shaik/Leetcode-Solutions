@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T05:30:51.739Z
+ * Synced: 2026-09-18T05:31:37.329Z
  */
 
 class Solution {
@@ -30,5 +30,5 @@ class Solution {
                 right--;
             }
     }
-            if()
+            if(Character.toLowerCase(s.charAt(left))!=Character.toLowe)
 }
