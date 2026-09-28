@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-09-28T15:36:56.977Z",
+  "submissionTimestamp": "2026-09-28T15:37:43.228Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -14,6 +14,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Majority Element",
-  "problemUrl": "https://leetcode.com/problems/majority-element/description/",
-  "submissionId": "22iev8"
+  "problemUrl": "https://leetcode.com/problems/majority-element/",
+  "submissionId": "lxx2r0"
 }
