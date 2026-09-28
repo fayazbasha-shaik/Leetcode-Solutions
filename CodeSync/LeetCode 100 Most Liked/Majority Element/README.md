@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/majority-element/
-- Synced: 2026-09-28T15:43:56.950Z
+- Synced: 2026-09-28T15:44:42.370Z
 
 ## Problem Description
 
