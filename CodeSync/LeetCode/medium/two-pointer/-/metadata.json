@@ -1,17 +1,16 @@
 {
-  "submissionTimestamp": "2026-09-18T06:26:40.313Z",
+  "submissionTimestamp": "2026-09-18T06:27:03.976Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Two Pointers",
     "String",
-    "Dynamic Programming",
-    "Manacher"
+    "Dynamic Programming"
   ],
   "platform": "LeetCode",
-  "language": "Text",
+  "language": "C",
   "problemTitle": "-",
-  "problemUrl": "https://leetcode.com/problems/longest-palindromic-substring/description/",
-  "submissionId": "fcxydu"
+  "problemUrl": "https://leetcode.com/problems/palindromic-substrings/description/",
+  "submissionId": "ttj33k"
 }
