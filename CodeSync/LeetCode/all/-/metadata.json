@@ -1,16 +1,16 @@
 {
-  "submissionTimestamp": "2026-09-18T06:27:03.976Z",
+  "submissionTimestamp": "2026-09-24T14:55:20.087Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "tags": [
     "Two Pointers",
     "String",
-    "Dynamic Programming"
+    "Greedy"
   ],
   "platform": "LeetCode",
-  "language": "C",
+  "language": "Problem List",
   "problemTitle": "-",
-  "problemUrl": "https://leetcode.com/problems/palindromic-substrings/description/",
-  "submissionId": "ttj33k"
+  "problemUrl": "https://leetcode.com/problems/valid-palindrome-ii/description/",
+  "submissionId": "kbj12w"
 }
