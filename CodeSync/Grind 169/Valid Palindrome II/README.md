@@ -6,8 +6,8 @@
 - Topics: Two Pointers, String, Greedy
 - Runtime: 0 ms
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/valid-palindrome-ii/
-- Synced: 2026-09-18T06:20:58.279Z
+- Problem URL: https://leetcode.com/problems/valid-palindrome-ii/submissions/2145444935/
+- Synced: 2026-09-18T06:22:00.206Z
 
 ## Problem Description
 
