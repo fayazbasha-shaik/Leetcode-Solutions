@@ -1,18 +1,18 @@
 # -
 
 - Platform: LeetCode
-- Language: C
-- Difficulty: Medium
-- Topics: Two Pointers, String, Dynamic Programming
+- Language: Problem List
+- Difficulty: Easy
+- Topics: Two Pointers, String, Greedy
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/palindromic-substrings/description/
-- Synced: 2026-09-18T06:27:03.976Z
+- Problem URL: https://leetcode.com/problems/valid-palindrome-ii/description/
+- Synced: 2026-09-24T14:55:20.087Z
 
 ## Problem Description
 
-Given a string s, return the number of palindromic substrings in it. A string is a palindrome when it reads the same backward as forward. A substring is a contiguous sequence of characters within the string. Example 1: Input: s = "abc" Output: 3 Explanation: Three palindromic strings: "a", "b", "c". Example 2: Input: s = "aaa" Output: 6 Explanation: Six palindromic strings: "a", "a", "a", "aa", "aa", "aaa". Constraints: 1 <= s.length <= 1000 s consists of lowercase English letters.
+Given a string s, return true if the s can be palindrome after deleting at most one character from it. Example 1: Input: s = "aba" Output: true Example 2: Input: s = "abca" Output: true Explanation: You could delete the character 'c'. Example 3: Input: s = "abc" Output: false Constraints: 1 <= s.length <= 105 s consists of lowercase English letters.
 
 ## Explanation
 
-This solution was accepted on LeetCode using C. The detected topics are Two Pointers, String, Dynamic Programming. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Two Pointers, String, Greedy. Review the synced source file for the implementation details.
