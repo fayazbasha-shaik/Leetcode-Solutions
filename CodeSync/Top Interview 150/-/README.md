@@ -1,13 +1,13 @@
 # -
 
 - Platform: LeetCode
-- Language: C
+- Language: Problem List
 - Difficulty: Easy
 - Topics: Two Pointers, String, Greedy
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/valid-palindrome-ii/description/
-- Synced: 2026-09-18T05:41:33.333Z
+- Synced: 2026-09-24T14:55:20.087Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Given a string s, return true if the s can be palindrome after deleting at most 
 
 ## Explanation
 
-This solution was accepted on LeetCode using C. The detected topics are Two Pointers, String, Greedy. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Two Pointers, String, Greedy. Review the synced source file for the implementation details.
