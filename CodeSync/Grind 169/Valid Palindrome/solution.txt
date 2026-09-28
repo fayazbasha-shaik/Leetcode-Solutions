@@ -7,7 +7,7 @@
  * Topics: Two Pointers, String
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-18T06:18:46.929Z
+ * Synced: 2026-09-18T06:19:37.927Z
  */
 
 "A man, a plan, a canal: Panama"
