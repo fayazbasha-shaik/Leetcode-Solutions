@@ -6,8 +6,8 @@
 - Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/majority-element/description/
-- Synced: 2026-09-28T15:36:56.977Z
+- Problem URL: https://leetcode.com/problems/majority-element/
+- Synced: 2026-09-28T15:37:43.228Z
 
 ## Problem Description
 
