@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-09-18T05:41:33.333Z",
+  "submissionTimestamp": "2026-09-24T14:55:20.087Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -9,8 +9,8 @@
     "Greedy"
   ],
   "platform": "LeetCode",
-  "language": "C",
+  "language": "Problem List",
   "problemTitle": "-",
   "problemUrl": "https://leetcode.com/problems/valid-palindrome-ii/description/",
-  "submissionId": "b5zbsc"
+  "submissionId": "kbj12w"
 }
