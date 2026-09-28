@@ -7,15 +7,15 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | Coding Sheet | Solved | Total |
 | :--- | :--- | :--- |
 | Blind 75 | 7 | 75 |
-| Grind 75 | 5 | 75 |
-| Grind 169 | 5 | 169 |
+| Grind 75 | 6 | 75 |
+| Grind 169 | 6 | 169 |
 | Neetcode 150 | 8 | 150 |
 | LeetCode 75 | 1 | 75 |
-| Top Interview 150 | 6 | 150 |
-| LeetCode 100 Most Liked | 4 | 100 |
+| Top Interview 150 | 7 | 150 |
+| LeetCode 100 Most Liked | 5 | 100 |
 | SQL 50 | 0 | 50 |
-| Strivers A2Z DSA Sheet | 8 | 455 |
-| Striver SDE Sheet | 4 | 191 |
+| Strivers A2Z DSA Sheet | 9 | 455 |
+| Striver SDE Sheet | 5 | 191 |
 | Love Babbar Sheet | 1 | 445 |
 | Code Army Sheet | 0 | 726 |
 | GFG 160 | 0 | 160 |
@@ -29,7 +29,7 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | 6 Companies 30 Days | 3 | 90 |
 | Striver 79 | 3 | 79 |
 | Atharva Patil's 150 Sheet | 3 | 150 |
-| AlgoMaster 300 | 0 | 300 |
+| AlgoMaster 300 | 1 | 300 |
 | Arsh DSA Sheet | 0 | 287 |
 | Neetcode 250 | 0 | 250 |
 | 20 Essential DSA Patterns | 0 | 180 |
