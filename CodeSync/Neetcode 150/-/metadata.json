@@ -1,16 +1,17 @@
 {
-  "submissionTimestamp": "2026-09-18T05:41:33.333Z",
+  "submissionTimestamp": "2026-09-18T06:26:40.313Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "difficulty": "Medium",
   "tags": [
     "Two Pointers",
     "String",
-    "Greedy"
+    "Dynamic Programming",
+    "Manacher"
   ],
   "platform": "LeetCode",
-  "language": "C",
+  "language": "Text",
   "problemTitle": "-",
-  "problemUrl": "https://leetcode.com/problems/valid-palindrome-ii/description/",
-  "submissionId": "b5zbsc"
+  "problemUrl": "https://leetcode.com/problems/longest-palindromic-substring/description/",
+  "submissionId": "fcxydu"
 }
