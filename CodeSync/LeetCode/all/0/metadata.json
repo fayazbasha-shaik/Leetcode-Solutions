@@ -1,14 +1,19 @@
 {
-  "submissionTimestamp": "2026-09-24T14:12:38.626Z",
-  "runtime": "4 ms",
-  "memoryUsage": "47.88 MB",
-  "difficulty": "Unknown",
+  "submissionTimestamp": "2026-09-28T15:36:09.207Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
   "tags": [
-    "Uncategorized"
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
   ],
   "platform": "LeetCode",
-  "language": "Java",
+  "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/submissions/detail/2145446330/",
-  "submissionId": "8r33q5"
+  "problemUrl": "https://leetcode.com/problems/majority-element/description/",
+  "submissionId": "4wwqdp"
 }
