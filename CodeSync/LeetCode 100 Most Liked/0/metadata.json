@@ -1,0 +1,17 @@
+{
+  "submissionTimestamp": "2026-09-18T06:23:20.178Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Manacher"
+  ],
+  "platform": "LeetCode",
+  "language": "Problem List",
+  "problemTitle": "0",
+  "problemUrl": "https://leetcode.com/problems/longest-palindromic-substring/description/",
+  "submissionId": "wzh5gx"
+}
