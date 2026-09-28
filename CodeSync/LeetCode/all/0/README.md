@@ -1,18 +1,18 @@
 # 0
 
 - Platform: LeetCode
-- Language: Java
-- Difficulty: Unknown
-- Topics: Uncategorized
-- Runtime: 4 ms
-- Memory: 47.88 MB
-- Problem URL: https://leetcode.com/submissions/detail/2145446330/
-- Synced: 2026-09-24T14:12:38.626Z
+- Language: Problem List
+- Difficulty: Easy
+- Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
+- Runtime: N/A
+- Memory: N/A
+- Problem URL: https://leetcode.com/problems/majority-element/description/
+- Synced: 2026-09-28T15:36:09.207Z
 
 ## Problem Description
 
-Problem description was not available on the page at sync time.
+Given an array nums of size n, return the majority element. The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array. Example 1: Input: nums = [3,2,3] Output: 3 Example 2: Input: nums = [2,2,1,1,1,2,2] Output: 2 Constraints: n == nums.length 1 <= n <= 5 * 104 -109 <= nums[i] <= 109 The input is generated such that a majority element will exist in the array. Follow-up: Could you solve the problem in linear time and in O(1) space?
 
 ## Explanation
 
-This solution was accepted on LeetCode using Java. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm. Review the synced source file for the implementation details.
