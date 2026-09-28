@@ -7,7 +7,7 @@
  * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-28T15:41:37.297Z
+ * Synced: 2026-09-28T15:42:22.685Z
  */
 
 class Solution {
@@ -17,5 +17,5 @@ class Solution {
             int counter=0;
         }
     }
-            for(int j=)
+            for(int j=0)
 }
