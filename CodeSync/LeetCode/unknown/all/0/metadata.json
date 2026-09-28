@@ -1,14 +1,14 @@
 {
-  "submissionTimestamp": "2026-09-18T05:00:16.885Z",
-  "runtime": "N/A",
-  "memoryUsage": "N/A",
+  "submissionTimestamp": "2026-09-24T14:10:13.433Z",
+  "runtime": "0 ms",
+  "memoryUsage": "47.23 MB",
   "difficulty": "Unknown",
   "tags": [
     "Uncategorized"
   ],
   "platform": "LeetCode",
-  "language": "Problem List",
+  "language": "Java",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/reverse-string/submissions/2145361294/",
-  "submissionId": "s7u4lh"
+  "problemUrl": "https://leetcode.com/submissions/detail/2147927997/",
+  "submissionId": "rq1lv3"
 }
