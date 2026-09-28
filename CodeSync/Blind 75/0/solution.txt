@@ -1,0 +1,17 @@
+/*
+ * Platform: LeetCode
+ * Problem: 0
+ * URL: https://leetcode.com/problems/longest-palindromic-substring/description/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Two Pointers, String, Dynamic Programming, Manacher
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-18T06:23:20.178Z
+ */
+
+class Solution {
+    public String longestPalindrome(String s) {
+        
+    }
+}
