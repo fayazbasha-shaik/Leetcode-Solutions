@@ -1,17 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: Majority Element
- * URL: https://leetcode.com/problems/majority-element/description/
+ * URL: https://leetcode.com/problems/majority-element/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-28T15:36:56.977Z
+ * Synced: 2026-09-28T15:37:43.228Z
  */
 
 class Solution {
     public int majorityElement(int[] nums) {
         
     }
+        
 }
