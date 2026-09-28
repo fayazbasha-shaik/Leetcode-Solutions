@@ -1,15 +1,36 @@
 /*
  * Platform: LeetCode
  * Problem: -
- * URL: https://leetcode.com/problems/longest-palindromic-substring/description/
- * Language: Text
- * Difficulty: Medium
- * Topics: Two Pointers, String, Dynamic Programming, Manacher
+ * URL: https://leetcode.com/problems/valid-palindrome-ii/description/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Two Pointers, String, Greedy
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-18T06:26:40.313Z
+ * Synced: 2026-09-24T14:55:20.087Z
  */
 
-Input: s = "babad"
-Output: "bab"
-Explanation: "aba" is also a valid answer.
+class Solution {
+    public boolean validPalindrome(String s) {
+        int left=0;
+        int right=s.length()-1;
+        while(left<right){
+            if(s.charAt(left)!=s.charAt(right)){
+                return isPalindrome(s,left+1,right) || isPalindrome(s,left,right-1);
+            }
+            left++;
+            right--;
+        }
+        return true;
+        
+    }
+    public static boolean isPalindrome(String s, int left, int right){
+            while(left<right){
+                if(s.charAt(left)!=s.charAt(right)){
+                    return false;
+                }
+                left++;
+                right--;
+            }
+            return true;
+    }
