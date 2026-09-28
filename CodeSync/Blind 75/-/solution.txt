@@ -1,0 +1,15 @@
+/*
+ * Platform: LeetCode
+ * Problem: -
+ * URL: https://leetcode.com/problems/longest-palindromic-substring/description/
+ * Language: Text
+ * Difficulty: Medium
+ * Topics: Two Pointers, String, Dynamic Programming, Manacher
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-18T06:26:40.313Z
+ */
+
+Input: s = "babad"
+Output: "bab"
+Explanation: "aba" is also a valid answer.
