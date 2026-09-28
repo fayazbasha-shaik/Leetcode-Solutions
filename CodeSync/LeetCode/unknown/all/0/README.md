@@ -1,13 +1,13 @@
 # 0
 
 - Platform: LeetCode
-- Language: Problem List
+- Language: Java
 - Difficulty: Unknown
 - Topics: Uncategorized
-- Runtime: N/A
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/reverse-string/submissions/2145361294/
-- Synced: 2026-09-18T05:00:16.885Z
+- Runtime: 0 ms
+- Memory: 47.23 MB
+- Problem URL: https://leetcode.com/submissions/detail/2147927997/
+- Synced: 2026-09-24T14:10:13.433Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Problem description was not available on the page at sync time.
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Java. Review the synced source file for the implementation details.
