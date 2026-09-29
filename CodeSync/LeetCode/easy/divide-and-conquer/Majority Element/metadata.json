@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-09-28T15:44:42.370Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-09-28T15:57:09.774Z",
+  "runtime": "0 ms",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
@@ -14,6 +14,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Majority Element",
-  "problemUrl": "https://leetcode.com/problems/majority-element/",
-  "submissionId": "veeho9"
+  "problemUrl": "https://leetcode.com/problems/majority-element/submissions/2156157301/",
+  "submissionId": "1vx7v6"
 }
