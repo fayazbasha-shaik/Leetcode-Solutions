@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Majority Element
- * URL: https://leetcode.com/problems/majority-element/
+ * URL: https://leetcode.com/problems/majority-element/submissions/2156157301/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-28T15:53:30.892Z
+ * Synced: 2026-09-28T15:57:09.774Z
  */
 
 class Solution {
@@ -20,3 +20,14 @@ class Solution {
                 if(j==i){
                     counter++;
                 }
+            }
+            if(max<counter){
+                max=counter;
+                value=nums[i];
+            }
+        }
+        return value;
+        
+    }
+
+}
