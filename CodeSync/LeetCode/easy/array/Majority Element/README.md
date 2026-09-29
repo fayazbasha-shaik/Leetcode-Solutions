@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
-- Runtime: N/A
+- Runtime: 0 ms
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/majority-element/
-- Synced: 2026-09-28T15:51:48.388Z
+- Problem URL: https://leetcode.com/problems/majority-element/submissions/2156157301/
+- Synced: 2026-09-28T15:57:09.774Z
 
 ## Problem Description
 
