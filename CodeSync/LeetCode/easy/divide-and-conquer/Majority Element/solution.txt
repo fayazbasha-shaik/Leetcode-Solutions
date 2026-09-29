@@ -7,17 +7,10 @@
  * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-28T15:58:41.901Z
+ * Synced: 2026-09-28T15:59:29.565Z
  */
 
-class Solution {
-    public int majorityElement(int[] nums) {
-        int max=Integer.MIN_VALUE;
-        int value=0;
-        for(int i =0;i<nums.length;i++){
-            int counter=0;
-            for(int j=0;j<nums.length;j++){
-                if(nums[j]==nums[i]){
+if(nums[j]==nums[i]){
                     counter++;
                 }
             }
@@ -27,3 +20,11 @@ class Solution {
             }
         }
         return value;
+        
+        for(int i =0;i<nums.length;i++){
+            int counter=0;
+            for(int j=0;j<nums.length;j++){
+        int value=0;
+    public int majorityElement(int[] nums) {
+        int max=Integer.MIN_VALUE;
+class Solution {
