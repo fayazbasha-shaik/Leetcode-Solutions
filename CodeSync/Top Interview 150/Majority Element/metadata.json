@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-09-28T15:51:48.388Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-09-28T15:53:30.892Z",
+  "runtime": "0 ms",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
@@ -15,5 +15,5 @@
   "language": "Problem List",
   "problemTitle": "Majority Element",
   "problemUrl": "https://leetcode.com/problems/majority-element/",
-  "submissionId": "5cyodl"
+  "submissionId": "f14tu1"
 }
