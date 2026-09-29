@@ -7,7 +7,7 @@
  * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-28T16:00:22.929Z
+ * Synced: 2026-09-28T16:01:54.283Z
  */
 
 if(nums[j]==nums[i]){
