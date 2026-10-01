@@ -1,20 +1,20 @@
 /*
  * Platform: LeetCode
  * Problem: Majority Element
- * URL: https://leetcode.com/problems/majority-element/
+ * URL: https://leetcode.com/problems/majority-element/submissions/2156168393/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
  * Runtime: 0 ms
- * Memory: 63.44 MB
- * Synced: 2026-09-28T16:02:40.450Z
+ * Memory: 62.78 MB
+ * Synced: 2026-09-28T16:03:58.925Z
  */
 
 int value = 0;
 
         for (int num : nums) {
             if (count == 0) {
-                candidate = num;
+                value = num;
             }
 
             if (num == value) {
@@ -24,7 +24,8 @@ int value = 0;
             }
         }
 
-        return candidate;
+        return value;
         int count = 0;
     }
-}
+    public int majorityElement(int[] nums) {
+class Solution {
