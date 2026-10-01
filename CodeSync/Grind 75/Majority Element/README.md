@@ -5,9 +5,9 @@
 - Difficulty: Easy
 - Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/majority-element/submissions/2156162419/
-- Synced: 2026-09-28T16:01:54.283Z
+- Memory: 63.44 MB
+- Problem URL: https://leetcode.com/problems/majority-element/
+- Synced: 2026-09-28T16:02:40.450Z
 
 ## Problem Description
 
