@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-28T16:01:54.283Z",
+  "submissionTimestamp": "2026-09-28T16:03:58.925Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "62.78 MB",
   "difficulty": "Easy",
   "tags": [
     "Array",
@@ -14,6 +14,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Majority Element",
-  "problemUrl": "https://leetcode.com/problems/majority-element/submissions/2156162419/",
-  "submissionId": "10mfiy"
+  "problemUrl": "https://leetcode.com/problems/majority-element/submissions/2156168393/",
+  "submissionId": "wevq1r"
 }
