@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-10-02T15:17:05.149Z",
-  "runtime": "0 ms",
+  "submissionTimestamp": "2026-10-02T15:21:35.331Z",
+  "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
@@ -9,6 +9,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Reverse Integer",
-  "problemUrl": "https://leetcode.com/problems/reverse-integer/",
-  "submissionId": "tu6btn"
+  "problemUrl": "https://leetcode.com/problems/reverse-integer/submissions/",
+  "submissionId": "e1q6bd"
 }
