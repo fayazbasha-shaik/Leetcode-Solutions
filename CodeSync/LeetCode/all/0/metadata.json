@@ -1,14 +1,16 @@
 {
-  "submissionTimestamp": "2026-09-28T17:05:42.205Z",
+  "submissionTimestamp": "2026-09-28T17:23:41.604Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "difficulty": "Medium",
   "tags": [
-    "Array"
+    "Array",
+    "Math",
+    "Two Pointers"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/max-consecutive-ones/description/",
-  "submissionId": "vez27h"
+  "problemUrl": "https://leetcode.com/problems/rotate-array/description/",
+  "submissionId": "fv3rku"
 }
