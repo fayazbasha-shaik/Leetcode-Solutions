@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-10-02T09:34:56.338Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-10-02T10:03:18.225Z",
+  "runtime": "0 ms",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
@@ -10,5 +10,5 @@
   "language": "Problem List",
   "problemTitle": "Monotonic Array",
   "problemUrl": "https://leetcode.com/problems/monotonic-array/",
-  "submissionId": "5vroks"
+  "submissionId": "6u3oaf"
 }
