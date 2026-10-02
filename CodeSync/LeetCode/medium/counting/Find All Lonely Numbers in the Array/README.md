@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Medium
 - Topics: Array, Hash Table, Counting
-- Runtime: N/A
+- Runtime: 0 ms
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
-- Synced: 2026-10-02T10:21:30.151Z
+- Problem URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/2160033434/
+- Synced: 2026-10-02T10:22:46.932Z
 
 ## Problem Description
 
