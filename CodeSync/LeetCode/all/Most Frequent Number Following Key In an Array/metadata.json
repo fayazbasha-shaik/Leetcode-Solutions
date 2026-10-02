@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-10-02T10:35:57.462Z",
+  "submissionTimestamp": "2026-10-02T10:38:11.693Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Most Frequent Number Following Key In an Array",
-  "problemUrl": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/",
-  "submissionId": "nv7bw"
+  "problemUrl": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/",
+  "submissionId": "3smo6k"
 }
