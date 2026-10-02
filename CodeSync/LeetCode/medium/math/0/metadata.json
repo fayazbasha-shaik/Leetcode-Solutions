@@ -1,16 +1,14 @@
 {
-  "submissionTimestamp": "2026-09-28T17:23:41.604Z",
+  "submissionTimestamp": "2026-10-02T15:00:56.492Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
-    "Array",
-    "Math",
-    "Two Pointers"
+    "Math"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/rotate-array/description/",
-  "submissionId": "fv3rku"
+  "problemUrl": "https://leetcode.com/problems/reverse-integer/description/",
+  "submissionId": "h2qfd"
 }
