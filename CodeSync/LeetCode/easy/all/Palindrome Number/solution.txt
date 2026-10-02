@@ -7,7 +7,7 @@
  * Topics: Math
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T16:46:38.232Z
+ * Synced: 2026-10-02T16:47:23.789Z
  */
 
 class Solution {
@@ -24,7 +24,7 @@ class Solution {
             x=x/10;
 
         }
-        if(x*sign==rev*sign || x==rev){
+        if(x==rev || x*sign==rev*sign || ){
             return true;
         }
         else{
