@@ -5,21 +5,17 @@
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array
- * Runtime: N/A
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T09:34:56.338Z
+ * Synced: 2026-10-02T10:03:18.225Z
  */
 
-class Solution {
-    public boolean isMonotonic(int[] nums) {
-        int lp=0;
-        int rp=nums.length-1;
-        while(lp<rp){
-            if(nums(lp)!<=nums && nums(lp)!>=nums(rp)){
+increasing = false;
+
+            if (nums[i] < nums[i + 1])
+                decreasing = false;
         }
-        
-                return false 
-            }
+
+        return increasing || decreasing;
     }
-        return true;
 }
