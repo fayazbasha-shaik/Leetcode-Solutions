@@ -7,16 +7,26 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T15:29:53.816Z
+ * Synced: 2026-10-02T15:30:39.428Z
  */
 
-class Solution {
-    public reverse(int x) {
-        int rev=0;
+int rev=0;
         while(x>0){
-            int lastDigit=x%10;
         int sign=1;
         if(x<0){
             sign=-1;
         }
             x=-x;
+            int lastDigit=x%10;
+            
+            rev=rev*10+lastDigit;
+            x=x/10;
+            
+        
+        if(rev> Integer.MIN_VALUE && rev <Integer.MIN_value){
+            return 0;
+        }
+return rev*sign;
+        
+    }
+}
