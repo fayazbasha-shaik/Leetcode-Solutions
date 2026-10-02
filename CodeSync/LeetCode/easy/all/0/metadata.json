@@ -1,14 +1,14 @@
 {
-  "submissionTimestamp": "2026-09-28T17:05:42.205Z",
+  "submissionTimestamp": "2026-10-02T16:37:11.005Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
-    "Array"
+    "Math"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/max-consecutive-ones/description/",
-  "submissionId": "vez27h"
+  "problemUrl": "https://leetcode.com/problems/palindrome-number/description/",
+  "submissionId": "i1x4d5"
 }
