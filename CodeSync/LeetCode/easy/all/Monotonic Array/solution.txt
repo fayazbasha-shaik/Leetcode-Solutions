@@ -7,7 +7,7 @@
  * Topics: Array
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T09:33:25.976Z
+ * Synced: 2026-10-02T09:34:11.193Z
  */
 
 class Solution {
@@ -15,7 +15,7 @@ class Solution {
         int lp=0;
         int rp=nums.length-1;
         while(lp<rp){
-            if(nums)
+            if(nums(lp)!<=nums && nums(lp))
         }
         
     }
