@@ -1,0 +1,20 @@
+/*
+ * Platform: LeetCode
+ * Problem: Monotonic Array
+ * URL: https://leetcode.com/problems/monotonic-array/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-02T09:32:40.146Z
+ */
+
+class Solution {
+    public boolean isMonotonic(int[] nums) {
+        
+    }
+        int lp=0;
+        int rp=nums.length-1;
+        while(lp)
+}
