@@ -1,19 +1,14 @@
 {
-  "submissionTimestamp": "2026-09-28T15:36:09.207Z",
+  "submissionTimestamp": "2026-09-28T17:05:42.205Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
-    "Array",
-    "Hash Table",
-    "Divide and Conquer",
-    "Sorting",
-    "Counting",
-    "Boyer–Moore Majority Vote Algorithm"
+    "Array"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/majority-element/description/",
-  "submissionId": "4wwqdp"
+  "problemUrl": "https://leetcode.com/problems/max-consecutive-ones/description/",
+  "submissionId": "vez27h"
 }
