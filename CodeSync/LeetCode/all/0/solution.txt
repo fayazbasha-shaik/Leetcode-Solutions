@@ -1,17 +1,27 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/majority-element/description/
+ * URL: https://leetcode.com/problems/max-consecutive-ones/description/
  * Language: Problem List
  * Difficulty: Easy
- * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
+ * Topics: Array
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-28T15:36:09.207Z
+ * Synced: 2026-09-28T17:05:42.205Z
  */
 
 class Solution {
-    public int majorityElement(int[] nums) {
-        
-    }
-}
+    public int findMaxConsecutiveOnes(int[] nums) {
+        int max=0;
+        int start=0;
+        int end=nums.length-1;
+        int count=0;
+       while(start<=end){
+       if(nums[start]==1){
+        count++;
+        max=Math.max(max,count);
+       }
+       else{
+        count=0;
+       }
+       start++;
