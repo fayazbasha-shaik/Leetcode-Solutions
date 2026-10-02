@@ -66,5 +66,6 @@
   "leetcode:find-all-lonely-numbers-in-the-array": [],
   "leetcode:most-frequent-number-following-key-in-an-array": [],
   "leetcode:beautiful-array": [],
-  "leetcode:reverse-integer": []
+  "leetcode:reverse-integer": [],
+  "leetcode:palindrome-number": []
 }
