@@ -7,28 +7,17 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T16:41:48.769Z
+ * Synced: 2026-10-02T16:42:34.119Z
  */
 
-int sign=1;
-        if(x<0){
-          sign=-1;
-          x=-x;
+x=-x;
         }
-        
         int rev=0;
         while(x>0){
-            int lastdigit=n%10;
-        }
+            int lastdigit=x%10;
             rev=rev*10+lastdigit;
-            n=n/10;
+            x=x/10;
 
-        if(x*si==rev*sign){
+        }
+        if(x*sign==rev*sign){
             return true;
-        }
-        else{
-            false;
-        }
-    }
-}
-    public boolean isPalindrome(int x) {
