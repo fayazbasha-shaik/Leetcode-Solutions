@@ -1,22 +1,36 @@
 /*
  * Platform: LeetCode
  * Problem: Find All Lonely Numbers in the Array
- * URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/2160035876/
+ * URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/2160036350/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Hash Table, Counting
  * Runtime: 1 ms
- * Memory: 127.44 MB
- * Synced: 2026-10-02T10:25:32.605Z
+ * Memory: N/A
+ * Synced: 2026-10-02T10:26:53.923Z
  */
 
-boolean unique = true;
-            boolean adjacent = false;
+if (!set.contains(num - 1) &&
+                !set.contains(num + 1) &&
+                count(nums, num) == 1) {
+                
+                ans.add(num);
+            }
+        }
 
-            if (i > 0 && nums[i] == nums[i - 1])
-                unique = false;
+        return ans;
+    }
 
-            if (i < nums.length - 1 && nums[i] == nums[i + 1])
-                unique = false;
+    public int count(int[] nums, int target) {
+        int count = 0;
 
-            if (i > 0 && nums[i] - 1 == nums[i - 1])
+        for (int num : nums) {
+    public List<Integer> findLonely(int[] nums) {
+
+        List<Integer> ans = new ArrayList<>();
+        HashSet<Integer> set = new HashSet<>();
+
+        for (int num : nums) {
+            set.add(num);
+        }
+class Solution {
