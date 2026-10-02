@@ -7,11 +7,13 @@
  * Topics: Array, Math, Divide and Conquer
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:52:36.182Z
+ * Synced: 2026-10-02T10:53:43.978Z
  */
 
 class Solution {
     public int[] beautifulArray(int n) {
         
     }
+
+        
 }
