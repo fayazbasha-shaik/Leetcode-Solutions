@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Reverse Integer
- * URL: https://leetcode.com/problems/reverse-integer/submissions/2160271384/
+ * URL: https://leetcode.com/problems/reverse-integer/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Math
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T15:16:19.703Z
+ * Synced: 2026-10-02T15:17:05.149Z
  */
 
 x=x/10;
@@ -17,3 +17,15 @@ return rev*sign;
         
     }
 }
+            rev=rev*10+lastDigit;
+            
+class Solution {
+    public reverse(int x) {
+        int sign=1;
+        if(x<0){
+            sign=-1;
+            x=-x;
+        }
+        int rev=0;
+        while(x>0){
+            int lastDigit=x%10;
