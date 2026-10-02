@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-10-02T10:12:07.328Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "platform": "LeetCode",
+  "language": "Problem List",
+  "problemTitle": "Find All Lonely Numbers in the Array",
+  "problemUrl": "https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/",
+  "submissionId": "67pxln"
+}
