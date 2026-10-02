@@ -2,17 +2,17 @@
 
 - Platform: LeetCode
 - Language: Problem List
-- Difficulty: Hard
-- Topics: String, Dynamic Programming
+- Difficulty: Medium
+- Topics: Array, Backtracking, Bit Manipulation
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/distinct-subsequences-ii/description/
-- Synced: 2026-10-01T05:08:10.199Z
+- Problem URL: https://leetcode.com/problems/subsets/description/
+- Synced: 2026-10-01T05:09:08.217Z
 
 ## Problem Description
 
-Given a string s, return the number of distinct non-empty subsequences of s. Since the answer may be very large, return it modulo 109 + 7. A subsequence of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not. Example 1: Input: s = "abc" Output: 7 Explanation: The 7 distinct subsequences are "a", "b", "c", "ab", "ac", "bc", and "abc". Example 2: Input: s = "aba" Output: 6 Explanation: The 6 distinct subsequences are "a", "b", "ab", "aa", "ba", and "aba". Example 3: Input: s = "aaa" Output: 3 Explanation: The 3 distinct subsequences are "a", "aa" and "aaa". Constraints: 1 <= s.length <= 2000 s consists of lowercase English letters.
+Given an integer array nums of unique elements, return all possible subsets (the power set). The solution set must not contain duplicate subsets. Return the solution in any order. Example 1: Input: nums = [1,2,3] Output: [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]] Example 2: Input: nums = [0] Output: [[],[0]] Constraints: 1 <= nums.length <= 10 -10 <= nums[i] <= 10 All the numbers of nums are unique.
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are String, Dynamic Programming. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Backtracking, Bit Manipulation. Review the synced source file for the implementation details.
