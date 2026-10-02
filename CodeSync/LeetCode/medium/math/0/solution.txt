@@ -1,17 +1,17 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/rotate-array/description/
+ * URL: https://leetcode.com/problems/reverse-integer/description/
  * Language: Problem List
  * Difficulty: Medium
- * Topics: Array, Math, Two Pointers
+ * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-28T17:23:41.604Z
+ * Synced: 2026-10-02T15:00:56.492Z
  */
 
 class Solution {
-    public void rotate(int[] nums, int k) {
+    public int reverse(int x) {
         
     }
 }
