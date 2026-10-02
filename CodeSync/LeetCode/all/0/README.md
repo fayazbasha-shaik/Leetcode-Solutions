@@ -2,17 +2,17 @@
 
 - Platform: LeetCode
 - Language: Problem List
-- Difficulty: Easy
-- Topics: Math
+- Difficulty: Medium
+- Topics: Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/perfect-number/description/
-- Synced: 2026-10-02T17:30:00.827Z
+- Problem URL: https://leetcode.com/problems/count-primes/description/
+- Synced: 2026-10-02T17:50:16.931Z
 
 ## Problem Description
 
-A perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. A divisor of an integer x is an integer that can divide x evenly. Given an integer n, return true if n is a perfect number, otherwise return false. Example 1: Input: num = 28 Output: true Explanation: 28 = 1 + 2 + 4 + 7 + 14 1, 2, 4, 7, and 14 are all divisors of 28. Example 2: Input: num = 7 Output: false Constraints: 1 <= num <= 108
+Given an integer n, return the number of prime numbers that are strictly less than n. Example 1: Input: n = 10 Output: 4 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7. Example 2: Input: n = 0 Output: 0 Example 3: Input: n = 1 Output: 0 Constraints: 0 <= n <= 5 * 106
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Math. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve. Review the synced source file for the implementation details.
