@@ -54,11 +54,13 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | ------- |
 | [0169-majority-element](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +74,7 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | ------- |
 | [0169-majority-element](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
