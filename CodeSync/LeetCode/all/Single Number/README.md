@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/single-number/description/
-- Synced: 2026-10-02T10:11:19.392Z
+- Synced: 2026-10-02T10:12:05.179Z
 
 ## Problem Description
 
