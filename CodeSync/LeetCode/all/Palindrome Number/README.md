@@ -6,8 +6,8 @@
 - Topics: Math
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/palindrome-number/description/
-- Synced: 2026-10-02T16:37:57.990Z
+- Problem URL: https://leetcode.com/problems/palindrome-number/
+- Synced: 2026-10-02T16:38:44.116Z
 
 ## Problem Description
 
