@@ -7,12 +7,13 @@
  * Topics: Array
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-28T17:06:27.616Z
+ * Synced: 2026-09-28T17:07:12.761Z
  */
 
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
         
     }
-        
+
+        for
 }
