@@ -3,16 +3,16 @@
 - Platform: LeetCode
 - Language: Problem List
 - Difficulty: Easy
-- Topics: Array
+- Topics: Math
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/max-consecutive-ones/description/
-- Synced: 2026-09-28T17:05:42.205Z
+- Problem URL: https://leetcode.com/problems/palindrome-number/description/
+- Synced: 2026-10-02T16:37:11.005Z
 
 ## Problem Description
 
-Given a binary array nums, return the maximum number of consecutive 1's in the array. Example 1: Input: nums = [1,1,0,1,1,1] Output: 3 Explanation: The first two digits or the last three digits are consecutive 1s. The maximum number of consecutive 1s is 3. Example 2: Input: nums = [1,0,1,1,0,1] Output: 2 Constraints: 1 <= nums.length <= 105 nums[i] is either 0 or 1.
+Given an integer x, return true if x is a palindrome, and false otherwise. Example 1: Input: x = 121 Output: true Explanation: 121 reads as 121 from left to right and from right to left. Example 2: Input: x = -121 Output: false Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome. Example 3: Input: x = 10 Output: false Explanation: Reads 01 from right to left. Therefore it is not a palindrome. Constraints: -231 <= x <= 231 - 1 Follow up: Could you solve it without converting the integer to a string?
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Array. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Math. Review the synced source file for the implementation details.
