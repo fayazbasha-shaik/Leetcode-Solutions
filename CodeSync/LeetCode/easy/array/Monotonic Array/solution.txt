@@ -7,14 +7,16 @@
  * Topics: Array
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T09:32:40.146Z
+ * Synced: 2026-10-02T09:33:25.976Z
  */
 
 class Solution {
     public boolean isMonotonic(int[] nums) {
-        
-    }
         int lp=0;
         int rp=nums.length-1;
-        while(lp)
+        while(lp<rp){
+            if(nums)
+        }
+        
+    }
 }
