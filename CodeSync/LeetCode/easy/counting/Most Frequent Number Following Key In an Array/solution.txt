@@ -7,7 +7,7 @@
  * Topics: Array, Hash Table, Counting
  * Runtime: 0 ms
  * Memory: 46.43 MB
- * Synced: 2026-10-02T10:51:37.025Z
+ * Synced: 2026-10-02T10:52:25.237Z
  */
 
 answer = target;
@@ -25,12 +25,12 @@ answer = target;
                 int count = 0;
                 int target = nums[i + 1];
 
-            if (nums[i] == key) {
+    public int mostFrequent(int[] nums, int key) {
+
+        int answer = 0;
+        int maxCount = 0;
 
         for (int i = 0; i < nums.length - 1; i++) {
-            }
-        }
 
-        return answer;
-    }
-}
+            if (nums[i] == key) {
+class Solution {
