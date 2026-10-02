@@ -6,8 +6,8 @@
 - Topics: Array, Hash Table, Counting
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/
-- Synced: 2026-10-02T10:37:26.436Z
+- Problem URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
+- Synced: 2026-10-02T10:38:11.693Z
 
 ## Problem Description
 
