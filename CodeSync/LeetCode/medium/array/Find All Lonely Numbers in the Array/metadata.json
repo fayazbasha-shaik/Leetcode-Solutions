@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-02T10:24:34.633Z",
-  "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "submissionTimestamp": "2026-10-02T10:25:32.605Z",
+  "runtime": "1 ms",
+  "memoryUsage": "127.44 MB",
   "difficulty": "Medium",
   "tags": [
     "Array",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Find All Lonely Numbers in the Array",
-  "problemUrl": "https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/2160033434/",
-  "submissionId": "jfas1v"
+  "problemUrl": "https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/2160035876/",
+  "submissionId": "b4r7le"
 }
