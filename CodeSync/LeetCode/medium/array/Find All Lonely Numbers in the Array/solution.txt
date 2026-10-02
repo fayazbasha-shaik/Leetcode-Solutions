@@ -1,20 +1,20 @@
 /*
  * Platform: LeetCode
  * Problem: Find All Lonely Numbers in the Array
- * URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
+ * URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/description/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Hash Table, Counting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:17:34.069Z
+ * Synced: 2026-10-02T10:19:37.952Z
  */
 
 class Solution {
     public List<Integer> findLonely(int[] nums) {
         List<Integer> ans=new ArrayList<>();
         for(int i=0;i<nums.length-1;i++){
-            if(nums[i]-1 && nums[i]){
+            if(nums[i]-1 && nums[i]+1){
 
             }
         }
