@@ -49,5 +49,13 @@
     "AlgoMaster300"
   ],
   "leetcode:max-consecutive-ones": [],
-  "leetcode:rotate-array": []
+  "leetcode:rotate-array": [],
+  "leetcode:search-in-rotated-sorted-array": [
+    "Blind75",
+    "NeetCode150",
+    "TopInterview150",
+    "Top100Liked",
+    "StriverA2Z",
+    "StriverSDE"
+  ]
 }
