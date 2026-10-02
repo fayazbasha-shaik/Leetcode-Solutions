@@ -1,17 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: Most Frequent Number Following Key In an Array
- * URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/
+ * URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Hash Table, Counting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:37:26.436Z
+ * Synced: 2026-10-02T10:38:11.693Z
  */
 
 class Solution {
     public int mostFrequent(int[] nums, int key) {
         
     }
+        
 }
