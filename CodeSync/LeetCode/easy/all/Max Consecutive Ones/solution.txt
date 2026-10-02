@@ -7,7 +7,7 @@
  * Topics: Array
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-28T17:11:10.401Z
+ * Synced: 2026-09-28T17:11:55.731Z
  */
 
 class Solution {
@@ -27,4 +27,5 @@ class Solution {
 return counter;
         
     }
+             if()
 }
