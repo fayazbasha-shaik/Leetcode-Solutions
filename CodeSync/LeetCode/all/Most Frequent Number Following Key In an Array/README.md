@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Array, Hash Table, Counting
-- Runtime: N/A
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
-- Synced: 2026-10-02T10:50:40.714Z
+- Runtime: 0 ms
+- Memory: 46.43 MB
+- Problem URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/submissions/2160055051/
+- Synced: 2026-10-02T10:51:37.025Z
 
 ## Problem Description
 
