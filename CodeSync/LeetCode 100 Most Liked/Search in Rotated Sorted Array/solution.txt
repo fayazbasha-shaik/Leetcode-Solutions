@@ -7,7 +7,7 @@
  * Topics: Array, Binary Search
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-29T16:36:55.513Z
+ * Synced: 2026-09-29T16:37:44.869Z
  */
 
 class Solution {
@@ -15,11 +15,9 @@ class Solution {
         int start =0;
         int end=nums.lenght-1;
         while(start<end){
-            if(start==end){
+            int mid=
         }
 
         
-                return 
-            }
     }
 }
