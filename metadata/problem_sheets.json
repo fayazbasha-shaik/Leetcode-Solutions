@@ -58,5 +58,6 @@
     "StriverA2Z",
     "StriverSDE"
   ],
-  "leetcode:distinct-subsequences": []
+  "leetcode:distinct-subsequences": [],
+  "leetcode:distinct-subsequences-ii": []
 }
