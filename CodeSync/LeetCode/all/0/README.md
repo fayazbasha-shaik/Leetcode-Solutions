@@ -3,16 +3,16 @@
 - Platform: LeetCode
 - Language: Problem List
 - Difficulty: Medium
-- Topics: Array, Backtracking, Bit Manipulation
+- Topics: Math
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/subsets/description/
-- Synced: 2026-10-01T05:09:08.217Z
+- Problem URL: https://leetcode.com/problems/reverse-integer/description/
+- Synced: 2026-10-02T15:00:56.492Z
 
 ## Problem Description
 
-Given an integer array nums of unique elements, return all possible subsets (the power set). The solution set must not contain duplicate subsets. Return the solution in any order. Example 1: Input: nums = [1,2,3] Output: [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]] Example 2: Input: nums = [0] Output: [[],[0]] Constraints: 1 <= nums.length <= 10 -10 <= nums[i] <= 10 All the numbers of nums are unique.
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0. Assume the environment does not allow you to store 64-bit integers (signed or unsigned). Example 1: Input: x = 123 Output: 321 Example 2: Input: x = -123 Output: -321 Example 3: Input: x = 120 Output: 21 Constraints: -231 <= x <= 231 - 1
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Array, Backtracking, Bit Manipulation. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Math. Review the synced source file for the implementation details.
