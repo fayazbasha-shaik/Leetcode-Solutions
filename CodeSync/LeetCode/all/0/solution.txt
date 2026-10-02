@@ -1,17 +1,17 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/reverse-integer/description/
+ * URL: https://leetcode.com/problems/palindrome-number/description/
  * Language: Problem List
- * Difficulty: Medium
+ * Difficulty: Easy
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T15:00:56.492Z
+ * Synced: 2026-10-02T16:37:11.005Z
  */
 
 class Solution {
-    public int reverse(int x) {
+    public boolean isPalindrome(int x) {
         
     }
 }
