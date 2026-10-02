@@ -6,8 +6,8 @@
 - Topics: Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve
 - Runtime: 0 ms
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/count-primes/submissions/2160430942/
-- Synced: 2026-10-02T17:55:15.908Z
+- Problem URL: https://leetcode.com/problems/count-primes/
+- Synced: 2026-10-02T18:01:22.314Z
 
 ## Problem Description
 
