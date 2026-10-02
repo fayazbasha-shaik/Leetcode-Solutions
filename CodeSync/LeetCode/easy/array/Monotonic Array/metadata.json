@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-02T10:08:46.272Z",
+  "submissionTimestamp": "2026-10-02T10:11:03.675Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "85.52 MB",
   "difficulty": "Easy",
   "tags": [
     "Array"
@@ -9,6 +9,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Monotonic Array",
-  "problemUrl": "https://leetcode.com/problems/monotonic-array/",
-  "submissionId": "mjy015"
+  "problemUrl": "https://leetcode.com/problems/monotonic-array/submissions/2160023945/",
+  "submissionId": "hwbn8z"
 }
