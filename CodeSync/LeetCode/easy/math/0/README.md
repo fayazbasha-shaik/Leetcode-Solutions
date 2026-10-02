@@ -6,12 +6,12 @@
 - Topics: Math
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/palindrome-number/description/
-- Synced: 2026-10-02T16:37:11.005Z
+- Problem URL: https://leetcode.com/problems/perfect-number/description/
+- Synced: 2026-10-02T17:30:00.827Z
 
 ## Problem Description
 
-Given an integer x, return true if x is a palindrome, and false otherwise. Example 1: Input: x = 121 Output: true Explanation: 121 reads as 121 from left to right and from right to left. Example 2: Input: x = -121 Output: false Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome. Example 3: Input: x = 10 Output: false Explanation: Reads 01 from right to left. Therefore it is not a palindrome. Constraints: -231 <= x <= 231 - 1 Follow up: Could you solve it without converting the integer to a string?
+A perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. A divisor of an integer x is an integer that can divide x evenly. Given an integer n, return true if n is a perfect number, otherwise return false. Example 1: Input: num = 28 Output: true Explanation: 28 = 1 + 2 + 4 + 7 + 14 1, 2, 4, 7, and 14 are all divisors of 28. Example 2: Input: num = 7 Output: false Constraints: 1 <= num <= 108
 
 ## Explanation
 
