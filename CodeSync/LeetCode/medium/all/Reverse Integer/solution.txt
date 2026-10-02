@@ -1,16 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: Reverse Integer
- * URL: https://leetcode.com/problems/reverse-integer/
+ * URL: https://leetcode.com/problems/reverse-integer/submissions/2160271384/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Math
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T15:15:12.754Z
+ * Synced: 2026-10-02T15:16:19.703Z
  */
 
-}
+x=x/10;
+            
+        }
 return rev*sign;
         
     }
