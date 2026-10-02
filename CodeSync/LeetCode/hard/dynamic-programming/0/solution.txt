@@ -1,0 +1,17 @@
+/*
+ * Platform: LeetCode
+ * Problem: 0
+ * URL: https://leetcode.com/problems/distinct-subsequences/description/
+ * Language: Problem List
+ * Difficulty: Hard
+ * Topics: String, Dynamic Programming
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-01T05:07:41.807Z
+ */
+
+class Solution {
+    public int numDistinct(String s, String t) {
+        
+    }
+}
