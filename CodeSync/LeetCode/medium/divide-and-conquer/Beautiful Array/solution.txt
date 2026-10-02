@@ -7,16 +7,19 @@
  * Topics: Array, Math, Divide and Conquer
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:58:50.147Z
+ * Synced: 2026-10-02T10:59:35.367Z
  */
 
 class Solution {
     public int[] beautifulArray(int n) {
-        for(int i=0;i<n.length;i++){
-            if(2*nums[i]=nums[i])
+        for(int i=0;i<n.length-1;i++){
+            if(2*nums[i]=nums[i]+nums[i+1]){
         }
 
         
 
+                continue;
+            }
     }
+            e;se
 }
