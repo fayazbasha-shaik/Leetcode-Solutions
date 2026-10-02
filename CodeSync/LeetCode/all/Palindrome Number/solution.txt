@@ -7,12 +7,10 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T16:41:03.011Z
+ * Synced: 2026-10-02T16:41:48.769Z
  */
 
-class Solution {
-    public boolean isPalindrome(int x) {
-        int sign=1;
+int sign=1;
         if(x<0){
           sign=-1;
           x=-x;
@@ -22,9 +20,15 @@ class Solution {
         while(x>0){
             int lastdigit=n%10;
         }
-    }
             rev=rev*10+lastdigit;
             n=n/10;
 
-        if(x)
+        if(x*si==rev*sign){
+            return true;
+        }
+        else{
+            false;
+        }
+    }
 }
+    public boolean isPalindrome(int x) {
