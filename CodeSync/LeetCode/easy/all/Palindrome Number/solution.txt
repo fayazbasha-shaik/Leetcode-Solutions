@@ -7,30 +7,29 @@
  * Topics: Math
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T16:50:26.636Z
+ * Synced: 2026-10-02T16:51:11.943Z
  */
 
 }
         int rev=0;
         while(x>0){
             int lastdigit=x%10;
+          x=-x;
+          sign=-1;
+        if(x<0){
             rev=rev*10+lastdigit;
             x=x/10;
 
         }
-        if( x*sign==rev*sign){
+        if( n*sign==rev*sign){
             return true;
         }
-        else if(x==rev){
+        else if(){
             return true;
         }
         else{
            return false;
         }
-          x=-x;
-          sign=-1;
-        if(x<0){
-        int sign=1;
-    public boolean isPalindrome(int x) {
-class Solution {
-        in
+        
+    }
+}
