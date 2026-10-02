@@ -1,30 +1,14 @@
 /*
  * Platform: LeetCode
  * Problem: Reverse Integer
- * URL: https://leetcode.com/problems/reverse-integer/
+ * URL: https://leetcode.com/problems/reverse-integer/submissions/2160286494/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Math
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T15:31:28.075Z
+ * Synced: 2026-10-02T15:32:13.628Z
  */
 
-int lastDigit=x%10;
-            
-            rev=rev*10+lastDigit;
-            x=x/10;
-        }   
-        
-        if(rev> Integer.MIN_VALUE || rev <Integer.MIN_VALUE){
-            return 0;
-        }
-return rev*sign;
-        
-    }
-}
-        while(x>0){
-        }
-        int rev=0;
-            x=-x;
-            sign=-1;
+public int reverse(int x) {
+class Solution {
