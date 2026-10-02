@@ -7,12 +7,12 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T15:25:56.194Z
+ * Synced: 2026-10-02T15:26:52.067Z
  */
 
 class Solution {
     public int reverse(int x) {
         
     }
-        if
+         int 
 }
