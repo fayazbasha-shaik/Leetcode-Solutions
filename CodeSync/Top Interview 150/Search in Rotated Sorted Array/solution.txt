@@ -1,0 +1,21 @@
+/*
+ * Platform: LeetCode
+ * Problem: Search in Rotated Sorted Array
+ * URL: https://leetcode.com/problems/search-in-rotated-sorted-array/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Array, Binary Search
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-29T16:36:10.373Z
+ */
+
+class Solution {
+    public int search(int[] nums, int target) {
+        
+    }
+
+        int start =0;
+        int end=nums.lenght-1;
+        
+}
