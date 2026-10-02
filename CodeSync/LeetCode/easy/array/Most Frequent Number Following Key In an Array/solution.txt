@@ -1,29 +1,36 @@
 /*
  * Platform: LeetCode
  * Problem: Most Frequent Number Following Key In an Array
- * URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
+ * URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/submissions/2160055051/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Hash Table, Counting
- * Runtime: N/A
- * Memory: N/A
- * Synced: 2026-10-02T10:50:40.714Z
+ * Runtime: 0 ms
+ * Memory: 46.43 MB
+ * Synced: 2026-10-02T10:51:37.025Z
  */
 
-class Solution {
-    public int mostFrequent(int[] nums, int key) {
-        int count=0;
-        for(int i=0;i<nums.length-1;i++){
-          if(nums[i]==key){
-            val =nums[i+1];
-          }
-            count++;
-        int val=0;
+answer = target;
+                }
 
+                if (count > maxCount) {
+                    maxCount = count;
+                    }
+                }
+
+                    if (nums[j] == key && nums[j + 1] == target) {
+                        count++;
+
+                for (int j = 0; j < nums.length - 1; j++) {
+                int count = 0;
+                int target = nums[i + 1];
+
+            if (nums[i] == key) {
+
+        for (int i = 0; i < nums.length - 1; i++) {
+            }
         }
-        return val;
-    }
 
-          
-    
+        return answer;
+    }
 }
