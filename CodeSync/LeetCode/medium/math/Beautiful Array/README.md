@@ -6,8 +6,8 @@
 - Topics: Array, Math, Divide and Conquer
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/beautiful-array/description/
-- Synced: 2026-10-02T10:57:18.499Z
+- Problem URL: https://leetcode.com/problems/beautiful-array/
+- Synced: 2026-10-02T10:58:04.616Z
 
 ## Problem Description
 
