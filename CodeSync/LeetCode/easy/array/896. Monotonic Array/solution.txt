@@ -1,0 +1,14 @@
+/*
+ * Platform: LeetCode
+ * Problem: 896. Monotonic Array
+ * URL: https://leetcode.com/problems/monotonic-array/description/
+ * Language: Text
+ * Difficulty: Easy
+ * Topics: Array
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-02T09:31:54.635Z
+ */
+
+Input: nums = [1,2,2,3]
+Output: true
