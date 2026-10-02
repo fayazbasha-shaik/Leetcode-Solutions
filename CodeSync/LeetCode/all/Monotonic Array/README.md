@@ -5,9 +5,9 @@
 - Difficulty: Easy
 - Topics: Array
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/monotonic-array/
-- Synced: 2026-10-02T10:08:46.272Z
+- Memory: 85.52 MB
+- Problem URL: https://leetcode.com/problems/monotonic-array/submissions/2160023945/
+- Synced: 2026-10-02T10:11:03.675Z
 
 ## Problem Description
 
