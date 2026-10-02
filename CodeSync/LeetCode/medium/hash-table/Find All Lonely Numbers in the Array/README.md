@@ -6,8 +6,8 @@
 - Topics: Array, Hash Table, Counting
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/description/
-- Synced: 2026-10-02T10:20:43.931Z
+- Problem URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
+- Synced: 2026-10-02T10:21:30.151Z
 
 ## Problem Description
 
