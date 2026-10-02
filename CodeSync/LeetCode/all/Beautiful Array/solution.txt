@@ -7,7 +7,7 @@
  * Topics: Array, Math, Divide and Conquer
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:59:35.367Z
+ * Synced: 2026-10-02T11:00:21.813Z
  */
 
 class Solution {
@@ -20,6 +20,10 @@ class Solution {
 
                 continue;
             }
+            else{
+
+            }
     }
-            e;se
+        int arr[]=new arr[n];
+                arr
 }
