@@ -79,4 +79,8 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
