@@ -7,30 +7,11 @@
  * Topics: Array, Hash Table, Counting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:33:14.024Z
+ * Synced: 2026-10-02T10:34:13.854Z
  */
 
 class Solution {
-    public List<Integer> findLonely(int[] nums) {
-
-        List<Integer> ans = new ArrayList<>();
-        HashSet<Integer> set = new HashSet<>();
-
-        for (int num : nums) {
-            set.add(num);
-        }
-
-        for (int num : nums) {
-            if (!set.contains(num - 1) &&
-                !set.contains(num + 1) &&
-                count(nums, num) == 1) {
-                
-                ans.add(num);
-            }
-        }
-
-        return ans;
+    public int mostFrequent(int[] nums, int key) {
+        
     }
-
-    public int count(int[] nums, int target) {
-        int count = 0;
+}
