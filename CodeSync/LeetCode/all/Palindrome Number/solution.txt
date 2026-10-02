@@ -1,17 +1,21 @@
 /*
  * Platform: LeetCode
  * Problem: Palindrome Number
- * URL: https://leetcode.com/problems/palindrome-number/description/
+ * URL: https://leetcode.com/problems/palindrome-number/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T16:37:57.990Z
+ * Synced: 2026-10-02T16:38:44.116Z
  */
 
 class Solution {
     public boolean isPalindrome(int x) {
         
+        int sign=1;
+        if(x<0){
+          
+        }
     }
 }
