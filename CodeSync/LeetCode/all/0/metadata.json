@@ -1,16 +1,15 @@
 {
-  "submissionTimestamp": "2026-09-28T17:23:41.604Z",
+  "submissionTimestamp": "2026-10-01T05:07:41.807Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Medium",
+  "difficulty": "Hard",
   "tags": [
-    "Array",
-    "Math",
-    "Two Pointers"
+    "String",
+    "Dynamic Programming"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/rotate-array/description/",
-  "submissionId": "fv3rku"
+  "problemUrl": "https://leetcode.com/problems/distinct-subsequences/description/",
+  "submissionId": "3giiul"
 }
