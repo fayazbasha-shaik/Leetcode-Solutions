@@ -7,15 +7,21 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T15:27:37.296Z
+ * Synced: 2026-10-02T15:28:22.672Z
  */
 
 class Solution {
     public int reverse(int x) {
-        
-         int sign=1;{
-
-         }
-    }
+        int sign
+        int rev=0;
+        while(x>0){
+            int lastDigit=x%10;
             
+            rev=rev*10+lastDigit;
+            x=x/10;
+            
+        }
+return rev;
+        
+    }
 }
