@@ -5,13 +5,10 @@
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Math
- * Runtime: N/A
+ * Runtime: 0ms
  * Memory: N/A
- * Synced: 2026-10-02T15:21:35.331Z
+ * Synced: 2026-10-02T15:22:21.313Z
  */
 
-class Solution {
-    public int reverse(int x) {
-        
-    }
-}
+Input: x = 123
+Output: 321
