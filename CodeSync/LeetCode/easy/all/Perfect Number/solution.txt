@@ -7,16 +7,16 @@
  * Topics: Math
  * Runtime: 0 ms
  * Memory: 42.30 MB
- * Synced: 2026-10-02T17:37:29.674Z
+ * Synced: 2026-10-02T17:39:02.261Z
  */
 
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        for(int i=1;i<num;i++){
+        for(int i=2;i<num/i;i++){
             if(num%i==0){
 
             }
-        int sum=;
+        int sum=1;
                 sum+=i;
         }
         if(sum==num){
@@ -30,4 +30,5 @@ class Solution {
         }
     }
 
+            
 }
