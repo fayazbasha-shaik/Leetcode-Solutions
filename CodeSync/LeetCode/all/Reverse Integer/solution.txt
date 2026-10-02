@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Reverse Integer
- * URL: https://leetcode.com/problems/reverse-integer/submissions/
+ * URL: https://leetcode.com/problems/reverse-integer/submissions/2160271384/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Math
- * Runtime: 0ms
+ * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T15:23:17.084Z
+ * Synced: 2026-10-02T15:24:18.723Z
  */
 
 Input: x = 123
