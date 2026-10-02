@@ -2,16 +2,16 @@
 
 - Platform: LeetCode
 - Language: Problem List
-- Difficulty: Medium
+- Difficulty: Easy
 - Topics: Math
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/reverse-integer/description/
-- Synced: 2026-10-02T15:00:56.492Z
+- Problem URL: https://leetcode.com/problems/palindrome-number/description/
+- Synced: 2026-10-02T16:37:11.005Z
 
 ## Problem Description
 
-Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0. Assume the environment does not allow you to store 64-bit integers (signed or unsigned). Example 1: Input: x = 123 Output: 321 Example 2: Input: x = -123 Output: -321 Example 3: Input: x = 120 Output: 21 Constraints: -231 <= x <= 231 - 1
+Given an integer x, return true if x is a palindrome, and false otherwise. Example 1: Input: x = 121 Output: true Explanation: 121 reads as 121 from left to right and from right to left. Example 2: Input: x = -121 Output: false Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome. Example 3: Input: x = 10 Output: false Explanation: Reads 01 from right to left. Therefore it is not a palindrome. Constraints: -231 <= x <= 231 - 1 Follow up: Could you solve it without converting the integer to a string?
 
 ## Explanation
 
