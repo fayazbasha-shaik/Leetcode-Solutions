@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
-- Synced: 2026-10-02T10:48:09.651Z
+- Synced: 2026-10-02T10:49:14.079Z
 
 ## Problem Description
 
