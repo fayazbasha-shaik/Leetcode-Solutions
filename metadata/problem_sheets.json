@@ -60,5 +60,6 @@
   ],
   "leetcode:distinct-subsequences": [],
   "leetcode:distinct-subsequences-ii": [],
-  "leetcode:subsets": []
+  "leetcode:subsets": [],
+  "leetcode:monotonic-array": []
 }
