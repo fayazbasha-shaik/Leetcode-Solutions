@@ -5,13 +5,12 @@
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Math
- * Runtime: N/A
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T16:42:34.119Z
+ * Synced: 2026-10-02T16:43:20.081Z
  */
 
-x=-x;
-        }
+}
         int rev=0;
         while(x>0){
             int lastdigit=x%10;
@@ -19,5 +18,5 @@ x=-x;
             x=x/10;
 
         }
-        if(x*sign==rev*sign){
+        if(x*==rev){
             return true;
