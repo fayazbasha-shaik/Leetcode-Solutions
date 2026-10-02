@@ -1,0 +1,17 @@
+/*
+ * Platform: LeetCode
+ * Problem: Palindrome Number
+ * URL: https://leetcode.com/problems/palindrome-number/description/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Math
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-02T16:37:57.990Z
+ */
+
+class Solution {
+    public boolean isPalindrome(int x) {
+        
+    }
+}
