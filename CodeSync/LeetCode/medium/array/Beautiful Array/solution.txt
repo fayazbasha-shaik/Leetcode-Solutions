@@ -1,0 +1,17 @@
+/*
+ * Platform: LeetCode
+ * Problem: Beautiful Array
+ * URL: https://leetcode.com/problems/beautiful-array/description/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Array, Math, Divide and Conquer
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-02T10:52:36.182Z
+ */
+
+class Solution {
+    public int[] beautifulArray(int n) {
+        
+    }
+}
