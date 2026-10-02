@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Reverse Integer
+ * URL: https://leetcode.com/problems/reverse-integer/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Math
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-02T15:04:28.782Z
+ */
+
+class Solution {
+    public int reverse(int x) {
+        
+    }
+        
+}
