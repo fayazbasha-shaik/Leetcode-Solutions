@@ -5,9 +5,9 @@
 - Difficulty: Medium
 - Topics: Array, Hash Table, Counting
 - Runtime: 1 ms
-- Memory: 127.44 MB
-- Problem URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/2160035876/
-- Synced: 2026-10-02T10:25:32.605Z
+- Memory: N/A
+- Problem URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/2160036350/
+- Synced: 2026-10-02T10:26:53.923Z
 
 ## Problem Description
 
