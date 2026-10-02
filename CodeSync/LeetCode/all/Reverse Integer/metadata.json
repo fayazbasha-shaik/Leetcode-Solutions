@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-02T15:25:10.421Z",
-  "runtime": "0 ms",
-  "memoryUsage": "8.58 MB",
+  "submissionTimestamp": "2026-10-02T15:25:56.194Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Math"
@@ -9,6 +9,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Reverse Integer",
-  "problemUrl": "https://leetcode.com/problems/reverse-integer/description/",
-  "submissionId": "tixjla"
+  "problemUrl": "https://leetcode.com/problems/reverse-integer/",
+  "submissionId": "bcksfg"
 }
