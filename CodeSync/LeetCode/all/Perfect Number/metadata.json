@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-02T17:35:14.111Z",
+  "submissionTimestamp": "2026-10-02T17:36:43.629Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "42.30 MB",
   "difficulty": "Easy",
   "tags": [
     "Math"
@@ -10,5 +10,5 @@
   "language": "Problem List",
   "problemTitle": "Perfect Number",
   "problemUrl": "https://leetcode.com/problems/perfect-number/",
-  "submissionId": "pt2tso"
+  "submissionId": "nn7a4u"
 }
