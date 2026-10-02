@@ -67,5 +67,8 @@
   "leetcode:most-frequent-number-following-key-in-an-array": [],
   "leetcode:beautiful-array": [],
   "leetcode:reverse-integer": [],
-  "leetcode:palindrome-number": []
+  "leetcode:palindrome-number": [],
+  "geeksforgeeks:armstrong-numbers2727": [
+    "GFG160"
+  ]
 }
