@@ -1,0 +1,15 @@
+{
+  "submissionTimestamp": "2026-09-29T16:36:10.373Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "platform": "LeetCode",
+  "language": "Problem List",
+  "problemTitle": "Search in Rotated Sorted Array",
+  "problemUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+  "submissionId": "h7nge0"
+}
