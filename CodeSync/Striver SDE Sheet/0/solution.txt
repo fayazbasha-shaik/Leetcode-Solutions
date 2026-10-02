@@ -1,17 +1,36 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/majority-element/description/
+ * URL: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
  * Language: Problem List
- * Difficulty: Easy
- * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
+ * Difficulty: Medium
+ * Topics: Array, Binary Search
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-28T15:36:09.207Z
+ * Synced: 2026-09-29T16:35:23.553Z
  */
 
 class Solution {
-    public int majorityElement(int[] nums) {
-        
-    }
-}
+    public int search(int[] nums, int target) {
+        int start=0;
+        int end=nums.length-1;
+        while(start<=end){
+            int mid=start+(end-start)/2;
+          if(nums[mid]==target){
+            return mid;}
+            if(nums[start]<=nums[mid]){//left sorted
+                if(nums[start]<=target && target<=nums[mid]){
+                    end=mid-1;
+                }
+                else{
+                    start=mid+1;
+                }
+            }else{//right sorted
+                 if(nums[mid]<= target && target <= nums[end]){
+                    start=mid+1;
+                 }
+                 else{
+                    end=mid-1;
+                 }
+                 
+            }
