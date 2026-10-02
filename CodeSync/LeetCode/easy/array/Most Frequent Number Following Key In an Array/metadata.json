@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-10-02T10:33:14.024Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "platform": "LeetCode",
+  "language": "Problem List",
+  "problemTitle": "Most Frequent Number Following Key In an Array",
+  "problemUrl": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/",
+  "submissionId": "dnw9fa"
+}
