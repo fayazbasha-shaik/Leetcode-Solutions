@@ -5,9 +5,9 @@
 - Difficulty: Easy
 - Topics: Math
 - Runtime: 0 ms
-- Memory: N/A
+- Memory: 42.30 MB
 - Problem URL: https://leetcode.com/problems/perfect-number/
-- Synced: 2026-10-02T17:35:14.111Z
+- Synced: 2026-10-02T17:36:43.629Z
 
 ## Problem Description
 
