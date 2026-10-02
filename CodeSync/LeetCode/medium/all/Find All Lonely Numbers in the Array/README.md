@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
-- Synced: 2026-10-02T10:15:24.552Z
+- Synced: 2026-10-02T10:16:48.355Z
 
 ## Problem Description
 
