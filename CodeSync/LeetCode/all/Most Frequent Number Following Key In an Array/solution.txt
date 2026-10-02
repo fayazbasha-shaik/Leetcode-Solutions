@@ -7,7 +7,7 @@
  * Topics: Array, Hash Table, Counting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:40:29.370Z
+ * Synced: 2026-10-02T10:42:26.715Z
  */
 
 class Solution {
@@ -15,10 +15,11 @@ class Solution {
         int count=0;
         for(int i=0;i<nums.length-1;i++){
           if(nums[i]==key){
-            nums[i+1];
+           int val =nums[i+1];
           }
         }
         
     }
             count++;
+        int val=0;
 }
