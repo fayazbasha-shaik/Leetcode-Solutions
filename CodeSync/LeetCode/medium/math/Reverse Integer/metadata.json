@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-10-02T15:21:35.331Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-10-02T15:22:21.313Z",
+  "runtime": "0ms",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
@@ -10,5 +10,5 @@
   "language": "Problem List",
   "problemTitle": "Reverse Integer",
   "problemUrl": "https://leetcode.com/problems/reverse-integer/submissions/",
-  "submissionId": "e1q6bd"
+  "submissionId": "tixjla"
 }
