@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Find All Lonely Numbers in the Array
- * URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
+ * URL: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/2160033434/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Hash Table, Counting
- * Runtime: N/A
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T10:21:30.151Z
+ * Synced: 2026-10-02T10:22:46.932Z
  */
 
 int count = 0;
@@ -21,15 +21,3 @@ int count = 0;
 
                 if (nums[i] - 1 == nums[j] ||
                     nums[i] + 1 == nums[j]) {
-                    adjacent = true;
-                }
-            }
-
-            if (count == 1 && !adjacent) {
-                ans.add(nums[i]);
-            }
-        }
-
-        return ans;
-    }
-}
