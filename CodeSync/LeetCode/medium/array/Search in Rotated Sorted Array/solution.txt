@@ -7,15 +7,17 @@
  * Topics: Array, Binary Search
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-29T16:36:10.373Z
+ * Synced: 2026-09-29T16:37:44.869Z
  */
 
 class Solution {
     public int search(int[] nums, int target) {
-        
-    }
-
         int start =0;
         int end=nums.lenght-1;
+        while(start<end){
+            int mid=
+        }
+
         
+    }
 }
