@@ -7,7 +7,7 @@
  * Topics: Array, Hash Table, Counting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:48:09.651Z
+ * Synced: 2026-10-02T10:49:14.079Z
  */
 
 class Solution {
@@ -25,5 +25,5 @@ class Solution {
     }
 
           
-        
+    
 }
