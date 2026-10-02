@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/monotonic-array/
-- Synced: 2026-10-02T10:04:11.932Z
+- Synced: 2026-10-02T10:07:44.878Z
 
 ## Problem Description
 
