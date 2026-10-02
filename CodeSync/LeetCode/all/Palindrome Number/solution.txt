@@ -7,7 +7,7 @@
  * Topics: Math
  * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-10-02T16:48:08.954Z
+ * Synced: 2026-10-02T16:48:54.636Z
  */
 
 }
@@ -18,7 +18,7 @@
             x=x/10;
 
         }
-        if(x==rev || x*sign==rev*sign ){
+        if(x==rev || x*sign==rev*sign){
             return true;
         }
         else{
@@ -31,5 +31,5 @@
           x=-x;
         if(x<0){
         int sign=1;
-class Solution {
     public boolean isPalindrome(int x) {
+class Solution {
