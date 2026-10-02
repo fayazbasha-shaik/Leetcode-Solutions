@@ -7,11 +7,13 @@
  * Topics: Array, Hash Table, Counting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:14:34.934Z
+ * Synced: 2026-10-02T10:15:24.552Z
  */
 
 class Solution {
     public List<Integer> findLonely(int[] nums) {
         
     }
+        List<Integer> ans=new ArrayList<>();
+        for
 }
