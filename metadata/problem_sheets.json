@@ -48,5 +48,6 @@
     "StriverSDE",
     "AlgoMaster300"
   ],
-  "leetcode:max-consecutive-ones": []
+  "leetcode:max-consecutive-ones": [],
+  "leetcode:rotate-array": []
 }
