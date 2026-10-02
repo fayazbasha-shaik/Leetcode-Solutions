@@ -1,19 +1,15 @@
 {
-  "submissionTimestamp": "2026-09-28T15:36:09.207Z",
+  "submissionTimestamp": "2026-09-29T16:35:23.553Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "difficulty": "Medium",
   "tags": [
     "Array",
-    "Hash Table",
-    "Divide and Conquer",
-    "Sorting",
-    "Counting",
-    "Boyer–Moore Majority Vote Algorithm"
+    "Binary Search"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/majority-element/description/",
-  "submissionId": "4wwqdp"
+  "problemUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/",
+  "submissionId": "e7x5vs"
 }
