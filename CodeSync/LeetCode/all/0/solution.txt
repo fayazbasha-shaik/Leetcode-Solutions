@@ -1,17 +1,17 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/perfect-number/description/
+ * URL: https://leetcode.com/problems/count-primes/description/
  * Language: Problem List
- * Difficulty: Easy
- * Topics: Math
+ * Difficulty: Medium
+ * Topics: Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T17:30:00.827Z
+ * Synced: 2026-10-02T17:50:16.931Z
  */
 
 class Solution {
-    public boolean checkPerfectNumber(int num) {
+    public int countPrimes(int n) {
         
     }
 }
