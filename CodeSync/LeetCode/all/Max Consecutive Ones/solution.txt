@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Max Consecutive Ones
- * URL: https://leetcode.com/problems/max-consecutive-ones/
+ * URL: https://leetcode.com/problems/max-consecutive-ones/submissions/2156269204/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-09-28T17:22:53.836Z
+ * Memory: 52.78 MB
+ * Synced: 2026-09-28T17:23:41.927Z
  */
 
 [1,1,0,1,1,1]
