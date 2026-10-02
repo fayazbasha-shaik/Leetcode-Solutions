@@ -53,10 +53,12 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +71,7 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
