@@ -7,7 +7,7 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T15:29:08.250Z
+ * Synced: 2026-10-02T15:29:53.816Z
  */
 
 class Solution {
@@ -15,18 +15,8 @@ class Solution {
         int rev=0;
         while(x>0){
             int lastDigit=x%10;
-            
-            rev=rev*10+lastDigit;
-            x=x/10;
-            
-        }
-return rev*sign;
-        
         int sign=1;
         if(x<0){
             sign=-1;
         }
-    }
             x=-x;
-        if(rev>)
-}
