@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Array
-- Runtime: N/A
+- Runtime: 0 ms
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/monotonic-array/
-- Synced: 2026-10-02T09:34:56.338Z
+- Synced: 2026-10-02T10:03:18.225Z
 
 ## Problem Description
 
