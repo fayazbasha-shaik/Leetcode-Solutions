@@ -1,17 +1,17 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/rotate-array/description/
+ * URL: https://leetcode.com/problems/distinct-subsequences/description/
  * Language: Problem List
- * Difficulty: Medium
- * Topics: Array, Math, Two Pointers
+ * Difficulty: Hard
+ * Topics: String, Dynamic Programming
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-28T17:23:41.604Z
+ * Synced: 2026-10-01T05:07:41.807Z
  */
 
 class Solution {
-    public void rotate(int[] nums, int k) {
+    public int numDistinct(String s, String t) {
         
     }
 }
