@@ -6,8 +6,8 @@
 - Topics: Math
 - Runtime: 0 ms
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/reverse-integer/
-- Synced: 2026-10-02T15:15:12.754Z
+- Problem URL: https://leetcode.com/problems/reverse-integer/submissions/2160271384/
+- Synced: 2026-10-02T15:16:19.703Z
 
 ## Problem Description
 
