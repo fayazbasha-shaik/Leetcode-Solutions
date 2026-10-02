@@ -7,15 +7,18 @@
  * Topics: Array, Hash Table, Counting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:39:43.952Z
+ * Synced: 2026-10-02T10:40:29.370Z
  */
 
 class Solution {
     public int mostFrequent(int[] nums, int key) {
-        
         int count=0;
         for(int i=0;i<nums.length-1;i++){
-          if(nums[])
+          if(nums[i]==key){
+            nums[i+1];
+          }
         }
+        
     }
+            count++;
 }
