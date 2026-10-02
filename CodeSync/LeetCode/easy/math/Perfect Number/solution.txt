@@ -7,7 +7,7 @@
  * Topics: Math
  * Runtime: 0 ms
  * Memory: 42.30 MB
- * Synced: 2026-10-02T17:36:43.629Z
+ * Synced: 2026-10-02T17:37:29.674Z
  */
 
 class Solution {
@@ -16,7 +16,7 @@ class Solution {
             if(num%i==0){
 
             }
-        int sum=0;
+        int sum=;
                 sum+=i;
         }
         if(sum==num){
@@ -25,5 +25,9 @@ class Solution {
         else{
            return false;
         }
+        if(num<=1){
+            return false;
+        }
     }
+
 }
