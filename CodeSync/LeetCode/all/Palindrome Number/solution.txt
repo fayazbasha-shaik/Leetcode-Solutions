@@ -7,15 +7,18 @@
  * Topics: Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T16:38:44.116Z
+ * Synced: 2026-10-02T16:39:29.894Z
  */
 
 class Solution {
     public boolean isPalindrome(int x) {
-        
         int sign=1;
         if(x<0){
-          
+          sign=-1;
+          x=-x;
         }
+        
     }
+        int rev=0;
+        while()
 }
