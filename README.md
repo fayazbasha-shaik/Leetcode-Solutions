@@ -84,4 +84,5 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | ------- |
 | [0007-reverse-integer](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/fayazbasha-shaik/Leetcode-Solutions/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
