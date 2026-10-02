@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Beautiful Array
- * URL: https://leetcode.com/problems/beautiful-array/description/
+ * URL: https://leetcode.com/problems/beautiful-array/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Math, Divide and Conquer
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:57:18.499Z
+ * Synced: 2026-10-02T10:58:04.616Z
  */
 
 class Solution {
@@ -15,5 +15,6 @@ class Solution {
         
     }
 
-        
+
+        for(int i=0;i<)
 }
