@@ -7,7 +7,7 @@
  * Topics: Array, Bit Manipulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-02T10:11:19.392Z
+ * Synced: 2026-10-02T10:12:05.179Z
  */
 
 class Solution {
