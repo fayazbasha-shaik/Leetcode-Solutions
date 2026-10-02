@@ -7,7 +7,7 @@
 - Runtime: 0ms
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/reverse-integer/submissions/
-- Synced: 2026-10-02T15:22:21.313Z
+- Synced: 2026-10-02T15:23:17.084Z
 
 ## Problem Description
 
